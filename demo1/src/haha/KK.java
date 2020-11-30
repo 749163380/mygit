@@ -1,5 +1,5 @@
 package haha;
 
-public class User {
+public class KK {
 
 }
